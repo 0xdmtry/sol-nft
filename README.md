@@ -14,8 +14,8 @@ This project provides a minimal example of creating an NFT collection and mintin
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/0xdmtry/sol-nft.git
+cd sol-nft
 ```
 
 ### 2. Install Dependencies
